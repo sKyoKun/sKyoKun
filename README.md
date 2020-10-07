@@ -4,7 +4,7 @@ Hi ! I'm Sonia and I'm a webdeveloper. I mostly work with the Symfony framework.
 
 ## 💻 Technical Experience
 
-**Software Engineer** @ [Web Atrio](http://www.web-atrio.com/) (Oct 2019 - now)
+#### Software Engineer @ [Web Atrio](http://www.web-atrio.com/) (Oct 2019 - now)
 
 Currently working on creating Symfony APIs based on an existing database [@sk5asec](https://github.com/sk5asec)
 
@@ -14,17 +14,20 @@ Currently working on creating Symfony APIs based on an existing database [@sk5as
 * Setting up Github workflow for CI 
 * **:hammer_and_wrench: Main technologies used :** Symfony 4, Laravel 5, Jquery, PHPUnit, Mysql 
 
-**Software Engineer** @ [Profideo](https://www.profideo.com/) (Sept 2017 - Sept 2019)
+<br/>
+
+#### Software Engineer @ [Profideo](https://www.profideo.com/) (Sept 2017 - Sept 2019)
 
 Development and maintenance of WebApps and APIs intended for banks and insurance companies.
 
 * Built a WebApp for a french bank
 * Built a complex API with external calls for a new project
-
 * **:hammer_and_wrench: Main technologies used :** Symfony 3/4, Twig, Bootstrap 3, Jquery, Behat, PHPUnit, Mysql
 * **🌱 Learned to play with :** Docker, SCRUM methodology
 
-**Software Engineer** @ [Centre Inffo](https://www.centre-inffo.fr/) (Sept 2009 - June 2017)
+<br/>
+
+#### Software Engineer @ [Centre Inffo](https://www.centre-inffo.fr/) (Sept 2009 - June 2017)
 
 Development and maintenance of the back-end.
 
@@ -32,16 +35,19 @@ Development and maintenance of the back-end.
 * Full development of a new database with backoffice and website interrogation (Symfony 2.1 / Propel)
 * Maintained a custom PHP framework back-office and added new features to it
 * Project manager for SolR integration on websites
-
 * **:hammer_and_wrench: Main technologies used :** Symfony 2, Doctrine, Propel, Twig, Mysql, native PHP5, SPIP
 * **🌱 Learned to play with :** Git
 
-**Web Developer** @ [Planet SA](https://www.planet.fr/) (Apr 2007 - June 2009)
+<br/>
+
+#### Web Developer @ [Planet SA](https://www.planet.fr/) (Apr 2007 - June 2009)
 
 Development and maintenance of the websites
 
 * **:hammer_and_wrench: Main technologies used :** HTML, CSS, Mysql, native PHP5, CURL, SPIP
 * **🌱 Learned to play with :** Symfony 1.1, SPIP (french CMS)
+
+<br/>
 
 ## 💬 Languages
 * French: Native

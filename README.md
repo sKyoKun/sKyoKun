@@ -24,9 +24,28 @@ Development and maintenance of WebApps and APIs intended for banks and insurance
 * **:hammer_and_wrench: Main technologies used :** Symfony 3/4, Twig, Bootstrap 3, Jquery, Behat, PHPUnit, Mysql
 * **🌱 Learned to play with :** Docker, SCRUM methodology
 
+**Software Engineer** @ [Centre Inffo](https://www.centre-inffo.fr/) (Sept 2009 - June 2017)
+
+Development and maintenance of the back-end.
+
+* Built a WebApp for the Human Resources department (Symfony 2.1 / Doctrine)
+* Full development of a new database with backoffice and website interrogation (Symfony 2.1 / Propel)
+* Maintained a custom PHP framework back-office and added new features to it
+* Project manager for SolR integration on websites
+
+* **:hammer_and_wrench: Main technologies used :** Symfony 2, Doctrine, Propel, Twig, Mysql, native PHP5, SPIP
+* **🌱 Learned to play with :** Git
+
+**Web Developer** @ [Planet SA](https://www.planet.fr/) (Apr 2007 - June 2009)
+
+Development and maintenance of the websites
+
+* **:hammer_and_wrench: Main technologies used :** HTML, CSS, Mysql, native PHP5, CURL, SPIP
+* **🌱 Learned to play with :** Symfony 1.1, SPIP (french CMS)
+
 ## 💬 Languages
 * French: Native
-* English: Intermediate
+* English: Somewhere between B2 and C1
 
 ## :memo: Some documentation I've written 
 https://skyokun.github.io/symfonyMemo/

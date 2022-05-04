@@ -6,12 +6,23 @@ Hi ! I'm Sonia and I'm a webdeveloper. I mostly work with the Symfony framework.
 
 #### Software Engineer @ [Web Atrio](http://www.web-atrio.com/) (Oct 2019 - now)
 
-Currently working on creating Symfony APIs based on an existing database [@sk5asec](https://github.com/sk5asec)
+Client : Aramisauto (may 2021 / now) Created Symfony APIs for Aramisauto product management system
+
+* Building Symfony APIs from scratch
+* Maintaining & Adapting existing apps to new APIs
+* Setting up unit and functional tests
+* Code review
+* **:hammer_and_wrench: Main technologies used :** Symfony 5/6, PHPUnit, Behat, RabbitMQ, Docker
+
+<br/>
+
+Client : 5ASec (nov 2019 / apr 2021) Created Symfony APIs based on an existing database [@sk5asec](https://github.com/sk5asec)
 
 * Building a Symfony API from scratch
 * Maintaining & Adapting existing WebApp to new API
 * Setting up unit and functional tests
-* Setting up Github workflow for CI 
+* Setting up Github workflow for CI klein
+* Code review
 * **:hammer_and_wrench: Main technologies used :** Symfony 4, Laravel 5, Jquery, PHPUnit, Mysql 
 
 <br/>
@@ -22,6 +33,7 @@ Development and maintenance of WebApps and APIs intended for banks and insurance
 
 * Built a WebApp for a french bank
 * Built a complex API with external calls for a new project
+* Code review
 * **:hammer_and_wrench: Main technologies used :** Symfony 3/4, Twig, Bootstrap 3, Jquery, Behat, PHPUnit, Mysql
 * **🌱 Learned to play with :** Docker, SCRUM methodology
 

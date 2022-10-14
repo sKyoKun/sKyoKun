@@ -12,7 +12,8 @@ Client : Aramisauto (may 2021 / now) Created Symfony APIs for Aramisauto product
 * Maintaining & Adapting existing apps to new APIs
 * Setting up unit and functional tests
 * Code review
-* **:hammer_and_wrench: Main technologies used :** Symfony 5/6, PHPUnit, Behat, RabbitMQ, Docker
+* **:hammer_and_wrench: Main technologies used :** Symfony 5/6, PHP8, PHPUnit, Behat, RabbitMQ, Docker
+* **🌱 Learned to play with :** MongoDB, RabbitMQ, AppSearch
 
 <br/>
 

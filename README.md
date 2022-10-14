@@ -21,7 +21,7 @@ Client : 5ASec (nov 2019 / apr 2021) Created Symfony APIs based on an existing d
 * Building a Symfony API from scratch
 * Maintaining & Adapting existing WebApp to new API
 * Setting up unit and functional tests
-* Setting up Github workflow for CI klein
+* Setting up Github workflow for CI
 * Code review
 * **:hammer_and_wrench: Main technologies used :** Symfony 4, Laravel 5, Jquery, PHPUnit, Mysql 
 

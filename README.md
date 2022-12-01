@@ -19,10 +19,10 @@ Client : Aramisauto (may 2021 / now) Created Symfony APIs for Aramisauto product
 
 Client : 5ASec (nov 2019 / apr 2021) Created Symfony APIs based on an existing database [@sk5asec](https://github.com/sk5asec)
 
-* Building a Symfony API from scratch
-* Maintaining & Adapting existing WebApp to new API
-* Setting up unit and functional tests
-* Setting up Github workflow for CI
+* Built a Symfony API from scratch
+* Maintained & Adapted existing WebApp to new API
+* Set up unit and functional tests
+* Set up Github workflow for CI
 * Code review
 * **:hammer_and_wrench: Main technologies used :** Symfony 4, Laravel 5, Jquery, PHPUnit, Mysql 
 

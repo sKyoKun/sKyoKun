@@ -74,7 +74,7 @@ https://skyokun.github.io/symfonyMemo/
 * [French resume](http://sonia.klein.free.fr/cv/) (currently out of date)
 
 ## :woman_mechanic: Side projects
-* Hoping to create a WebApp for simplified board game rules
+* Currently developping a WebApp for simplified board game rules (Angular / Symfony / MongoDB)
 * Hoping to create a private WebApp for my personnal cooking recipes
 
 ## :game_die: Fun facts 

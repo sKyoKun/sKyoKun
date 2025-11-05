@@ -12,7 +12,7 @@ Client : Aramisauto (may 2021 / now) Created Symfony APIs for Aramisauto product
 * Maintaining & Adapting existing apps to new APIs
 * Setting up unit and functional tests
 * Code review
-* **:hammer_and_wrench: Main technologies used :** Symfony 5/6, PHP8, PHPUnit, Behat, RabbitMQ, Docker
+* **:hammer_and_wrench: Main technologies used :** Symfony 7, PHP8, PHPUnit, Behat, RabbitMQ, Docker
 * **🌱 Learned to play with :** MongoDB, RabbitMQ, AppSearch
 
 <br/>
@@ -71,10 +71,9 @@ https://skyokun.github.io/symfonyMemo/
 
 ## 🔗 About me 
 * [LinkedIn](https://www.linkedin.com/in/sonia-klein-4519a516b/) 
-* [French resume](http://sonia.klein.free.fr/cv/) (currently out of date)
 
 ## :woman_mechanic: Side projects
-* Currently developping a WebApp for simplified board game rules (Angular / Symfony / MongoDB)
+* Currently developping a WebApp for simplified board game rules (Angular / Symfony)
 * Hoping to create a private WebApp for my personnal cooking recipes
 
 ## :game_die: Fun facts 

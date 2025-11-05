@@ -66,9 +66,6 @@ Development and maintenance of the websites
 * French: Native
 * English: Somewhere between B2 and C1
 
-## :memo: Some documentation I've written 
-https://skyokun.github.io/symfonyMemo/
-
 ## 🔗 About me 
 * [LinkedIn](https://www.linkedin.com/in/sonia-klein-4519a516b/) 
 

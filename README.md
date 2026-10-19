@@ -6,13 +6,13 @@ Hi ! I'm Sonia and I'm a webdeveloper. I mostly work with the Symfony framework.
 
 #### Software Engineer @ [Web Atrio](http://www.web-atrio.com/) (Oct 2019 - now)
 
-Client : Aramisauto (may 2021 / now) Created Symfony APIs for Aramisauto product management system
+Client : Aramisauto (may 2021 / Sept 2026) Created Symfony APIs for Aramisauto product management system
 
 * Building Symfony APIs from scratch
 * Maintaining & Adapting existing apps to new APIs
 * Setting up unit and functional tests
 * Code review
-* **:hammer_and_wrench: Main technologies used :** Symfony 7, PHP8, PHPUnit, Behat, RabbitMQ, Docker
+* **:hammer_and_wrench: Main technologies used :** Symfony 7/8, PHP8, PHPUnit, Behat, RabbitMQ, Docker
 * **🌱 Learned to play with :** MongoDB, RabbitMQ, AppSearch
 
 <br/>
